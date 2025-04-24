@@ -1,0 +1,5 @@
+// CONSTRUIRE PROJET MAVEN
+mvn clean install
+
+// LANCER LE PROJET 
+mvn exec:java -Dexec.mainClass="miage.knarr.equipeC.App"
