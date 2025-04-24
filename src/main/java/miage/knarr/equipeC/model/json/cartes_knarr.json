@@ -1,0 +1,1708 @@
+{
+  "cartesViking": [
+    {
+      "id": 1,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 2,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 3,
+      "couleur": "VERT",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 4,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 5,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 6,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 7,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 8,
+      "couleur": "VERT",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 9,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 10,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 2
+    },
+    {
+      "id": 11,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 12,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 13,
+      "couleur": "VERT",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 14,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 15,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 16,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 17,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 18,
+      "couleur": "VERT",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 19,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 20,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 1
+    },
+    {
+      "id": 21,
+      "couleur": "VERT",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 22,
+      "couleur": "VERT",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 23,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 24,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 25,
+      "couleur": "VERT",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 26,
+      "couleur": "VERT",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 27,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 28,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 29,
+      "couleur": "VERT",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 30,
+      "couleur": "VERT",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 31,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 32,
+      "couleur": "VIOLET",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 33,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 34,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 35,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 36,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 37,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 38,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 39,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 40,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 41,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 42,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 43,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 44,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 45,
+      "couleur": "ROUGE",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 46,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 47,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "RENOMME",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 48,
+      "couleur": "JAUNE",
+      "gain": {
+        "type": "POINT",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 49,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "BRACELET",
+        "valeur": 1
+      },
+      "force": 3
+    },
+    {
+      "id": 50,
+      "couleur": "BLEU",
+      "gain": {
+        "type": "RECRUE",
+        "valeur": 1
+      },
+      "force": 3
+    }
+  ],
+  "cartesDestination": [
+    {
+      "id": 1,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE", "BLEU"],
+          "nombres": [2, 1]
+        }
+      ],
+      "gain": {
+        "POINT": 2,
+        "RENOMME": 3
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 1,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 1,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 2,
+      "coutExploration": [
+        {
+          "requis": ["COULEURANY"],
+          "nombre": [4]
+        }
+      ],
+      "gain": {
+        "POINT": 5,
+        "BRACELET": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 3,
+      "coutExploration": [
+        {
+          "couleur": ["VIOLET", "JAUNE"],
+          "nombres": [2, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 6
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 4,
+      "coutExploration": [
+        {
+          "couleur": ["JAUNE", "BLEU"],
+          "nombres": [2, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 6
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 5,
+      "coutExploration": [
+        {
+          "couleur": ["BLEU", "VIOLET"],
+          "nombres": [3, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 7,
+        "RENOMME": 2
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 6,
+      "coutExploration": [
+        {
+          "requis": ["COULEURANY"],
+          "nombre": [4]
+        }
+      ],
+      "gain": {
+        "POINT": 5,
+        "RENOMME": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 7,
+      "coutExploration": [
+        {
+          "couleur": ["VERT", "VIOLET"],
+          "nombres": [2, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 6
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 8,
+      "coutExploration": [
+        {
+          "couleur": ["BLEU", "ROUGE"],
+          "nombres": [2, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 6
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE", "VERT"],
+          "nombres": [2, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 6
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 10,
+      "coutExploration": [
+        {
+          "couleur": ["VERT", "BLEU"],
+          "nombres": [3, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 8,
+        "RECRUE": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 11,
+      "coutExploration": [
+        {
+          "couleur": ["JAUNE", "VERT"],
+          "nombres": [3, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 9
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 12,
+      "coutExploration": [
+        {
+          "requis": ["COULEURANY"],
+          "nombre": [4]
+        }
+      ],
+      "gain": {
+        "POINT": 5,
+        "RECRUE": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 13,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE", "JAUNE", "VERT", "BLEU", "VIOLET"],
+          "nombres": [1, 1, 1, 1, 1]
+        }
+      ],
+      "gain": {
+        "POINT": 4,
+        "BRACELET": 1,
+        "RECRUE": 1,
+        "RENOMME": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 14,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE", "JAUNE"],
+          "nombres": [3, 2]
+        }
+      ],
+      "gain": {
+        "POINT": 7,
+        "BRACELET": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 15,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE", "JAUNE", "VERT", "BLEU", "VIOLET"],
+          "nombres": [1, 1, 1, 1, 1]
+        }
+      ],
+      "gain": {
+        "POINT": 4,
+        "BRACELET": 1,
+        "RECRUE": 1,
+        "RENOMME": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 16,
+      "coutExploration": [
+        {
+          "requis": ["COULEURDIFF"],
+          "nombre": [3]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "RECRUE": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 17,
+      "coutExploration": [
+        {
+          "couleur": ["BLEU"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "RENOMME": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 18,
+      "coutExploration": [
+        {
+          "couleur": ["JAUNE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RECRUE": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 19,
+      "coutExploration": [
+        {
+          "couleur": ["VERT"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "RECRUE": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 1,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 20,
+      "coutExploration": [
+        {
+          "couleur": ["VIOLET"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 1
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 21,
+      "coutExploration": [
+        {
+          "requis": ["COULEURDIFF"],
+          "nombre": [3]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 22,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "RENOMME": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 23,
+      "coutExploration": [
+        {
+          "requis": ["COULEURDIFF"],
+          "nombre": [3]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "RENOMME": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 24,
+      "coutExploration": [
+        {
+          "couleur": ["JAUNE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 25,
+      "coutExploration": [
+        {
+          "couleur": ["BLEU"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RECRUE": 1,
+        "RENOMME": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 26,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 27,
+      "coutExploration": [
+        {
+          "couleur": ["VERT"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RECRUE": 2
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 1,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 28,
+      "coutExploration": [
+        {
+          "requis": ["COULEURDIFF"],
+          "nombre": [3]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 1,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 29,
+      "coutExploration": [
+        {
+          "couleur": ["ROUGE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 30,
+      "coutExploration": [
+        {
+          "couleur": ["VIOLET"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 1
+        },
+        "2": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 31,
+      "coutExploration": [
+        {
+          "couleur": ["VIOLET"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "BRACELET": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 1
+        }
+      }
+    },
+    {
+      "id": 32,
+      "coutExploration": [
+        {
+          "couleur": ["JAUNE"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RENOMME": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 33,
+      "coutExploration": [
+        {
+          "requis": ["COULEURDIFF"],
+          "nombre": [4]
+        }
+      ],
+      "gain": {
+        "RECRUE": 1,
+        "RENOMME": 1,
+        "CARTE_VIKING": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 34,
+      "coutExploration": [
+        {
+          "couleur": ["BLEU"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RENOMME": 2
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 1,
+          "CARTE_VIKING": 0
+        }
+      }
+    },
+    {
+      "id": 35,
+      "coutExploration": [
+        {
+          "couleur": ["VERT"],
+          "nombres": [2]
+        }
+      ],
+      "gain": {
+        "RECRUE": 1
+      },
+      "gainCommerce": {
+        "1": {
+          "POINT": 0,
+          "RECRUE": 1,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "2": {
+          "POINT": 1,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        },
+        "3": {
+          "POINT": 0,
+          "RECRUE": 0,
+          "BRACELET": 0,
+          "RENOMME": 0,
+          "CARTE_VIKING": 0
+        }
+      }
+    }
+  ]
+}
